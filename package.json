@@ -20,7 +20,8 @@
 		"pdfjs-dist": "2.12.313",
 		"pdfjs-dist-viewer-min": "2.12.313",
 		"socket.io-client": "4.6.1",
-		"url": "0.11.1"
+		"url": "0.11.1",
+		"browserslist": "extends @nextcloud/browserslist-config"
 	},
 	"devDependencies": {
 		"copy-webpack-plugin": "11.0.0",

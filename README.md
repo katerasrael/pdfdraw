@@ -3,7 +3,7 @@
 ## Installation
 
 - Clone the repository to the `apps` folder of Nextcloud. Make sure to clone
-  recursively with submodules or run `git submodule update --init` afterwards
+  recursively with submodules (`git clone --recurse-submodules -j8   `) or run `git submodule update --init` afterwards
   to fetch third-party components.
 - Execute `make` in the checkout folder to fetch other third-party dependencies.
 
